@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    font-family: 'Arial';
+    background-image:url("../images/fond.jpeg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.navigation{
+    margin: auto;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+}
+
+.form_search{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    border-radius: 10px;
+}
+
+.input_search{
+    height: 40px;
+    border-radius: 30px;
+}
+
+.button_search{
+    background-color: white;
+    border: solid 1px;
+   
+    
+}
